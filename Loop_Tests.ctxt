@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Loop_Tests
+comment1.params=
+comment1.target=void\ Odd()
+comment2.params=
+comment2.target=void\ Even()
+comment3.params=
+comment3.target=void\ Squares()
+comment4.params=
+comment4.target=void\ alpha()
+comment5.params=
+comment5.target=void\ ALPHA()
+comment6.params=
+comment6.target=Loop_Tests()
+comment7.params=event
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=8
